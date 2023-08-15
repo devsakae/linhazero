@@ -1,0 +1,18 @@
+.section {
+  width: 100vw;
+  height: 100vh;
+  background-color: #FF6B57;
+}
+
+.hero {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 90%;
+  height: 80%;
+}
+
+.section h1 {
+  color: blue;
+}
